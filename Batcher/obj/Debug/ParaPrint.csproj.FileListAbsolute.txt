@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.exe.config
+C:\Users\Admin\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.exe
+C:\Users\Admin\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.pdb
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.About_Dialog.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.dropMessage.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Main.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Properties.Resources.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.exe
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.pdb
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Settings_form.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.PrinterSettings_Dialog.resources
+D:\Disk F\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.exe.config
+D:\Disk F\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.exe
+D:\Disk F\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.pdb
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.csprojAssemblyReference.cache
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.About_Dialog.resources
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.dropMessage.resources
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Main.resources
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.PrinterSettings_Dialog.resources
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Properties.Resources.resources
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Settings_form.resources
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.csproj.GenerateResource.cache
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.csproj.CoreCompileInputs.cache
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.exe
+D:\Disk F\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.pdb

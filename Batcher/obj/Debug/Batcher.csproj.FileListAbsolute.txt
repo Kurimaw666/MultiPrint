@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\Batcher.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\Batcher.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\Batcher.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Properties.Resources.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.About_Dialog.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.dropMessage.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.Main.resources
+C:\Users\Admin\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.exe.config
+C:\Users\Admin\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.exe
+C:\Users\Admin\source\repos\Batcher\Batcher\bin\Debug\ParaPrint.pdb
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.exe
+C:\Users\Admin\source\repos\Batcher\Batcher\obj\Debug\ParaPrint.pdb
